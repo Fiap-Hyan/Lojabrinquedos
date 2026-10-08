@@ -1,10 +1,19 @@
 import React from 'react'
+import { useState } from 'react'
 
+
+const links= [
+    {href: '#sobre', label: 'Sobre'}
+    {href: '#produtos', label: 'Brinquedos'}
+    {href: '#contato', label: 'Contato'}
+]
 const Header = () => {
   return (
     <div>
-        <h1>Olá bem vindo ao inicio da loja de brinquedo!!</h1>
-        
+        <header className='sticky top-0 z-50 bg-blue'>
+
+        </header>
+
 
       
     </div>
