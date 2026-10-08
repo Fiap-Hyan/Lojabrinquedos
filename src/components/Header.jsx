@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
-import tailwindcss from '@tailwindcss/vite'
+import { Link } from 'react'
+
 
 const links = [
   { href: '#sobre', label: 'Sobre' },
