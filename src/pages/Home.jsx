@@ -9,7 +9,7 @@ const Home = () => {
         { id: 1, titulo: "Carrinho", preco: "R$ 40,00", imagem: jogoImg1 },
         { id: 2, titulo: "Skate", preco: "R$ 60,00", imagem: jogoImg2 },
         { id: 3, titulo: "BeyBlade", preco: "R$ 70,00", imagem: jogoImg3 },
-        { id: 1, titulo: "NERF", preco: "R$ 40,00", imagem: jogoImg4 },
+        { id: 4, titulo: "NERF", preco: "R$ 40,00", imagem: jogoImg4 },
     ];
 
     return (
